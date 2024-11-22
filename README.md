@@ -39,7 +39,7 @@ Para visualizar o projeto corretamente, é necessário rodar o JSON Server local
 
 # Página inicial:
 ## 🎥 Demonstração ao vivo
-Link do projeto:
+Link do projeto: https://challenge-alura-geek-loja-online.vercel.app/
 
 
 ## 🖼️ Captura de Tela
