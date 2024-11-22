@@ -1,0 +1,90 @@
+.rodape{
+    width: 100%;
+    height: 232px;
+    padding: 64px 0px;
+    background: linear-gradient(40deg, #5300C8, #9303A6 , #8C0375);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rodape__titulo{
+    font-family: var(--fonte-principal);
+    font-size: 24px;
+    line-height: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+
+.rodape__conteudo p {
+    color: white;  /* Deixa o texto do parágrafo branco */
+    margin-left: 130px; /* Move o texto para a direita, ajustando o valor conforme necessário */
+}
+
+.rodape__conteudo a {
+    color: white;  /* Deixa o link branco */
+    text-decoration: none; /* Remove o sublinhado, se desejar */
+    margin-left: 5px; /* Move o link para a direita, ajustando o valor conforme necessário */
+}
+
+.rodape__conteudo a:hover {
+    color: #81ecff;  /* Muda a cor do link ao passar o mouse */
+}
+
+.rodape__container{
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    align-items: center;
+}
+
+.rodape__container strong{
+    margin-left: 12px;
+    color: #42be00;
+    font-family: "Dancing Script", cursive;
+    font-weight: 800;
+}
+
+.rodape__container span p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    font-family: var(--font-secundaria);
+}
+
+.rodape__container span {
+    color: white;
+}
+
+.linguagem{
+    margin-top: 8px;
+}
+
+.linguagem p{
+    color: aqua;
+}
+
+.linguagem__html{
+    width: 40px;
+    filter: brightness(0) saturate(100%);
+}
+
+.linguagem__css{
+    width: 40px;
+    filter: invert(25%) sepia(100%) saturate(500%) hue-rotate(180deg) brightness(1) contrast(1);
+}
+
+.linguagem__js{
+    width: 40px;
+    filter: sepia(100%) saturate(1000%) hue-rotate(45deg);
+}
+
+@media(max-width: 470px){
+    .rodape__titulo{
+        font-size: 18px;
+    }
+}

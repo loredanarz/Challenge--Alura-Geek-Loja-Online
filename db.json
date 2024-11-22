@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "de73",
+      "name": "Pop Funko 444 Frodo Baggins Lord Of The Rings",
+      "price": "129",
+      "image": "https://m.media-amazon.com/images/I/61Od4zcvIcL._AC_SL1012_.jpg"
+    },
+    {
+      "id": "24d4",
+      "name": "POP! (LORD OF THE RINGS) O SENHOR DOS ANÉIS - GANDALF #443 – FUNKO",
+      "price": "199",
+      "image": "https://m.media-amazon.com/images/I/61VcEyPBvmL._AC_SL1016_.jpg"
+    },
+    {
+      "id": "1763",
+      "name": "POP (LORD OF THE RINGS) O SENHOR DOS ANÉIS - ARAGORN ",
+      "price": "125",
+      "image": "https://m.media-amazon.com/images/I/71sBw4s1hWL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "a896",
+      "name": "Pop! Funko Samwise Gamgee #445 | Lotr | O Senhor Dos Anéis",
+      "price": "239",
+      "image": "https://m.media-amazon.com/images/I/81Oyar6SDuL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "c379",
+      "name": "Boneco Funko Pop! DreamWorks 30 anos Shrek - Gato de Botas",
+      "price": "214",
+      "image": "https://m.media-amazon.com/images/I/61u14rEWgEL._AC_SL1300_.jpg"
+    },
+    {
+      "id": "58d8",
+      "name": "Funko Pop! Movies: DreamWorks 30th Anniversary - Shrek, Gingy",
+      "price": "110",
+      "image": "https://m.media-amazon.com/images/I/61AS+kQYKEL._AC_SL1300_.jpg"
+    },
+    {
+      "id": "5172",
+      "name": "Boneco Funko Pop! DreamWorks 30 anos Shrek - Burro",
+      "price": "110",
+      "image": "https://m.media-amazon.com/images/I/71pNcKGXwUL._AC_SL1300_.jpg"
+    },
+    {
+      "id": "51ad",
+      "name": "Boneco Funko Pop! DreamWorks 30 anos Shrek - Shrek com Balão",
+      "price": "153",
+      "image": "https://m.media-amazon.com/images/I/61nzQj0lc4L._AC_SL1300_.jpg"
+    },
+    {
+      "id": "a7ec",
+      "name": "Boneco Funko Pop! Harry Potter - Dobby",
+      "price": "129",
+      "image": "https://m.media-amazon.com/images/I/81uqymhdBGL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "81d1",
+      "name": "FUNKO LUCIUS PROPHECY 12884",
+      "price": "96",
+      "image": "https://m.media-amazon.com/images/I/61HZKX7rceL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "77ab",
+      "name": "Pop! Funko Harry Potter #118 | Harry Potter",
+      "price": "149",
+      "image": "https://m.media-amazon.com/images/I/51orkJJc6jL._AC_SL1000_.jpg"
+    }
+  ]
+}
